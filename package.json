@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/Soumojit-Poddar/Remote_Interview_Platform/issues"
   },
-  "homepage": "https://github.com/Soumojit-Poddar/Remote_Interview_Platform#readme"
+  "homepage": "https://github.com/Soumojit-Poddar/Remote_Interview_Platform#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "tailwindcss": "^4.1.14"
+  },
+  "devDependencies": {
+    "daisyui": "^5.5.14"
+  }
 }
